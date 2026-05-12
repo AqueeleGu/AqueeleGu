@@ -1,13 +1,14 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/557f84ae-df35-4b64-9bec-e0ba190d4f58"/>  
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=Hello%2C+my+name+is+Gustavo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=Hello%2C+my+name+is+Gustavo+Henrique)](https://git.io/typing-svg)
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=I+am+a+Full+Stack+student)](https://git.io/typing-svg)
 
-* Constantly trying to be better. 🧠
-* Studying TI at UNIVESP. 👨‍🎓
-* Studying FullStack Development at Proa Institute. 👨‍🎓
+
+* I'm constantly improving and learning new programming languages. 🧠
+* I'm in my final year in a T.I course at UNIVESP. 👨‍🎓
+* Currently taking a Full-Stack Development course at Proa. 👨‍🎓
 
 ## 🌐 Socials:
 
